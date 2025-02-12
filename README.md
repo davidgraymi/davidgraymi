@@ -25,7 +25,7 @@ I'm a passionate software developer specializing in full-stack web and mobile ap
 
 ## 🔗 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/davidgraymi](https://www.linkedin.com/in/david-gray-mi/))
+- [LinkedIn](https://www.linkedin.com/in/david-gray-mi/)
 - [Personal Website](https://davidmgray.com)
 
 Let's build something amazing together!
